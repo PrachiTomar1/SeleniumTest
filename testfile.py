@@ -33,3 +33,4 @@ def test_search_functionality():
 
 if __name__ == "__main__":
     pytest.main(["-v", "--tb=short", __file__])
+
